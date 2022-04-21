@@ -37,6 +37,7 @@ if(isset($_GET['nim'])){
             <ul class="nav col-12">
                 <li><a href="index.php" class="nav-link px-3 text-white">Home</a></li>
                 <li><a href="form_pengurus.php" class="nav-link px-3 text-white">Tambah Pengurus</a></li>
+                <li><a href="divisi_list.php" class="nav-link px-3 text-white">Divisi</a></li>
             </ul>
         </div>
     </div>
