@@ -20,3 +20,15 @@ pada database sql, relation foreign key, terdapat constraint properties ON DELET
 - Hapus Pengurus<br />
 ![7](https://github.com/raihantaufiq/TP2DPBO2022/blob/main/screenshot/Screenshot%20(7).png?raw=true)
 ![8](https://github.com/raihantaufiq/TP2DPBO2022/blob/main/screenshot/Screenshot%20(8).png?raw=true)
+
+- Divisi<br />
+![9](https://github.com/raihantaufiq/TP2DPBO2022/blob/main/screenshot/Screenshot%20(9).png?raw=true)
+
+- Edit Divisi<br />
+![10](https://github.com/raihantaufiq/TP2DPBO2022/blob/main/screenshot/Screenshot%20(10).png?raw=true)
+
+- Bidang<br />
+![11](https://github.com/raihantaufiq/TP2DPBO2022/blob/main/screenshot/Screenshot%20(11).png?raw=true)
+
+- Edit Bidang<br />
+![12](https://github.com/raihantaufiq/TP2DPBO2022/blob/main/screenshot/Screenshot%20(12).png?raw=true)
