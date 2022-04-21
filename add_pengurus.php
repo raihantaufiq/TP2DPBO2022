@@ -26,4 +26,6 @@ if(isset($_POST['submit'])){
     $pengurus->close();
 }
 
+header('location:index.php');
+
 ?>
